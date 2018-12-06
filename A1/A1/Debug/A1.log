@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\henrik\desktop\programering\dv1537 h18 lp2 objektorienterad\a1\a1\main.cpp(45): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+  A1.vcxproj -> C:\Users\Henrik\Desktop\programering\DV1537 H18 lp2 Objektorienterad\A1\Debug\A1.exe
